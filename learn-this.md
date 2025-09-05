@@ -3,4 +3,5 @@
 - 🧠 C#
 - 🌐 Webbutveckling
 - 🛠️ Git & GitHub
-- 📱 Bygga appar
+- 🤖 AI och maskininlärning
+
