@@ -1,8 +1,8 @@
 Vem är jag?
-Jag heter [Ditt namn] och är student.
+Jag heter Sajad och är student.
 
 Vad vill jag lära mig under utbildningen?
-Jag vill lära mig programmering, Git och GitHub, och bli bättre på att samarbeta i projekt.
+Jag vill lära mig  Git och GitHub.
 
 Vad har jag för intressen?
-Jag gillar musik, sport och att lära mig nya teknologier.
+Jag gillar  sport .
