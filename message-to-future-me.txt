@@ -1,0 +1,4 @@
+Hej framtida jag!
+
+Just nu kämpar jag med att lära mig Git och GitHub steg för steg.  
+Om 6 månader hoppas jag att jag är mer självsäker i programmering 💪
